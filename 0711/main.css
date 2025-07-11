@@ -1,0 +1,19 @@
+        #tracy{
+            color: gold;
+            font-size: 28px;
+            opacity: 0.5;
+            }
+            .yellow{
+                color: orange;
+                font-size: 40px;
+            }
+            h1{
+            color: green;
+            } 
+            #tracy .yellow{
+                color: yellow;
+            }  
+            #tracy img{
+                opacity: 45%;
+                width: 450px;
+            }
